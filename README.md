@@ -1,4 +1,4 @@
-# Welcome to HashLips 👄
+# Welcome to CVSS ART ENGINE 👄
 
 ![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
 
@@ -8,15 +8,13 @@ To find out more please visit:
 
 [📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
 
-[👄 Discord](https://discord.com/invite/qh6MWhMJDN)
+[👄 Discord](https://discord.gg/GrVMTh9xw6)
 
-[💬 Telegram](https://t.me/hashlipsnft)
+[🐦 Twitter](https://twitter.com/IamSmr7)
 
-[🐦 Twitter](https://twitter.com/hashlipsnft)
+[ℹ️ Website](https://cryptoversespcaeship.online/)
 
-[ℹ️ Website](https://hashlips.online/HashLips)
-
-# HashLips Art Engine 🔥
+# CVSS Art Engine 🔥
 
 ![](https://github.com/HashLips/hashlips_art_engine/blob/main/banner.png)
 
@@ -27,7 +25,7 @@ Create generative art by using the canvas api and node js. Before you use the ge
 If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
 
 ```sh
-git clone https://github.com/HashLips/hashlips_art_engine.git
+git clone https://github.com/Smr777/NFT-ART-ENGINE.git
 ```
 
 Go to the root of your folder and run this command if you have yarn installed.
