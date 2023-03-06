@@ -1,4 +1,4 @@
-# Welcome to CVSS ART ENGINE 👄
+# Welcome to CVSS ART ENGINE 🚀
 
 ![](https://github.com/Smr777/NFT-ART-ENGINE/blob/main/CVSS.png)
 
@@ -15,8 +15,6 @@ To find out more please visit:
 [ℹ️ Website](https://cryptoversespcaeship.online/)
 
 # CVSS Art Engine 🔥
-
-![](https://github.com/HashLips/hashlips_art_engine/blob/main/banner.png)
 
 Create generative art by using the canvas api and node js. Before you use the generation engine, make sure you have node.js installed.
 
