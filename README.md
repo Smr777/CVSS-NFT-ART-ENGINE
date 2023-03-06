@@ -1,6 +1,6 @@
 # Welcome to CVSS ART ENGINE 👄
 
-![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
+![](https://github.com/Smr777/NFT-ART-ENGINE/blob/main/CVSS.png)
 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
 
